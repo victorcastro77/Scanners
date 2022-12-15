@@ -46,14 +46,15 @@ public class ScannerReadCSVFile
             // Pay attention to the spacing on your output
             //
             // Write your code in the space below!
-            
-            
-            
-            
-        }
-    }
+            for (int i = 0; i ; i++) {
+                
+            }
 
-    public static void main (String[] args) {
+            
+            }
+        }
+
+        public static void main (String[] args) {
         try {
             ScannerReadCSVFile srCsv = new ScannerReadCSVFile();
             srCsv.run();
